@@ -1,0 +1,1 @@
+tau = 1; % stała czasowa [s]
